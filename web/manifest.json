@@ -1,0 +1,11 @@
+{
+    "name": "Adaptive UI Design - Experiment 2",
+    "short_name": "ResponsiveUI",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#9333ea",
+    "description": "Flutter Experiment 2 - Adaptive and Responsive UI Design",
+    "orientation": "any",
+    "prefer_related_applications": false
+}
